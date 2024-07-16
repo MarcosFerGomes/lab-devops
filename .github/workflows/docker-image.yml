@@ -27,3 +27,4 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: MarcosFerGomes/lab-devops:latest, MarcosFerGomes/lab-devops:${{ github.run_number }}
+          
