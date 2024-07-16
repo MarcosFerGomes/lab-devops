@@ -26,4 +26,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: MarcosFerGomes/app-net-lab:latest, MarcosFerGomes/app-net-lab:${{ github.run_number }}
+          tags: MarcosFerGomes/lab-devops:latest, MarcosFerGomes/lab-devops:${{ github.run_number }}
